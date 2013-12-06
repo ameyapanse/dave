@@ -340,3 +340,4 @@ void brick(int y1, int x1){
 //	acquire_screen();
 	rectfill( screen, x1, y1, x1+10, y1+10, makecol( 255, 0, 0));
 //	release_screen();*/
+
